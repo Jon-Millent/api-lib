@@ -3,7 +3,7 @@ Free api collection
 
 ## Get ip address
 
-* `https://www.cloudflare.com/cdn-cgi/trace`
+* **https://www.cloudflare.com/cdn-cgi/trace**
   * `method: GET`
   * `cross-domain: yes`
   * `content-type: text/plain `
@@ -26,7 +26,7 @@ Free api collection
     ```
   * `request: /`
   
-* `http://pv.sohu.com/cityjson`
+* **http://pv.sohu.com/cityjson**
   * `method: GET`
   * `cross-domain: no`
   * `content-type: text/json `

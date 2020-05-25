@@ -24,4 +24,16 @@ Free api collection
     sni=plaintext
     warp=off
     ```
-
+  * `request: /`
+  
+* `http://pv.sohu.com/cityjson`
+  * `method: GET`
+  * `cross-domain: no`
+  * `content-type: text/json `
+  * `https: yes`
+  * `response time: 25ms - 100ms`
+  * `response`
+    ```text
+    var returnCitySN = {"cip": "x.x.x.x", "cid": "xxxx", "cname": "xx省xx市"};
+    ```
+  * `request: /  `
